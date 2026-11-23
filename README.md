@@ -35,7 +35,7 @@
 4. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - 🟡 Medium
 5. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) - 🟢 Easy
 6. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) - 🟡 Medium
-7. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - 🟡 Medium
+7. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) - 🟡 Medium *****
 8. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) - 🟡 Medium
 9. [3 Sum](https://leetcode.com/problems/3sum/) - 🟡 Medium
 10. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) - 🟡 Medium
